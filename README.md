@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Rober </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Rober+Zaracho"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;++;Self-taught+Front-End+Developer;Active+Learner/Researcher,;Rober+Zaracho"></a>
 </p>
 
 
@@ -17,7 +17,6 @@
 - I studied at Soy Henry.
 - I like to learn new technologies.
 - I'm from Argentian.
-- Reach out to me [link](roberdz30@gmail.com)
 -I am currently looking for a new job opportunity to help me continue progressing...
 <br><br>
 
