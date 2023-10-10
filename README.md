@@ -21,7 +21,7 @@
 - I studied at Soy Henry.
 - I like to learn new technologies.
 - I'm from Argentian.
--I am currently looking for a new job opportunity to help me continue progressing...
+- I am currently looking for a new job opportunity to help me continue progressing...
 
 <br>
 
