@@ -18,6 +18,7 @@
 <br>
 
 - I am a Full Stack Developer with experience building web applications using technologies like JavaScript, React, Node.js, Express.js, Sequelize and PostgreSQL. I recently graduated from Soy Henry, an intensive web development bootcamp, where I honed my programming skills and problem-solving abilities.
+<br>
 - I'm eager to continuously learn new technologies and frameworks to expand my skillset. I'm from Argentina, I can adapt quickly to diverse teams and cultures.
 - Currently, I'm seeking a full-time role as a Full Stack or Frontend Developer. I'm motivated to join a dynamic technology company where I can contribute my technical knowledge and passion for coding to build innovative products and solutions.
 
