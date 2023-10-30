@@ -17,11 +17,9 @@
 
 <br>
 
-- I'm Full Stack Develloper.
-- I studied at Soy Henry.
-- I like to learn new technologies.
-- I'm from Argentian.
-- I am currently looking for a new job opportunity to help me continue progressing...
+- I am a Full Stack Developer with experience building web applications using technologies like JavaScript, React, Node.js, Express.js, Sequelize and PostgreSQL. I recently graduated from Soy Henry, an intensive web development bootcamp, where I honed my programming skills and problem-solving abilities.
+- I'm eager to continuously learn new technologies and frameworks to expand my skillset. I'm from Argentina, I can adapt quickly to diverse teams and cultures.
+- Currently, I'm seeking a full-time role as a Full Stack or Frontend Developer. I'm motivated to join a dynamic technology company where I can contribute my technical knowledge and passion for coding to build innovative products and solutions.
 
 <br>
 
